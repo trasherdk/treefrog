@@ -2,8 +2,7 @@ This project includes code from the following projects:
 
 svelte-electron-starter (https://github.com/nye/svelte-electron-starter):
 
-Files: electron-builder.yml, package.json, rollup.config.js, rollup-dev.js,
-svelte.config.js.
+Files: electron-builder.yml, package.json, rollup.config.js.
 
 MIT License
 
